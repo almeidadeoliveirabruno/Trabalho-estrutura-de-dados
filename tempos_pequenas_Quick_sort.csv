@@ -1,0 +1,31 @@
+Tamanho,Tipo de Lista,Tempo (ns)
+10,Pequena Aleatoria,59100
+20,Pequena Aleatoria,48100
+30,Pequena Aleatoria,48100
+40,Pequena Aleatoria,92700
+50,Pequena Aleatoria,137200
+60,Pequena Aleatoria,207400
+70,Pequena Aleatoria,184400
+80,Pequena Aleatoria,246000
+90,Pequena Aleatoria,283000
+100,Pequena Aleatoria,304800
+10,Pequena Ordenada,19600
+20,Pequena Ordenada,38800
+30,Pequena Ordenada,54300
+40,Pequena Ordenada,76000
+50,Pequena Ordenada,105900
+60,Pequena Ordenada,120600
+70,Pequena Ordenada,155800
+80,Pequena Ordenada,182900
+90,Pequena Ordenada,170000
+100,Pequena Ordenada,160200
+10,Pequena Ordenada Reversa,21000
+20,Pequena Ordenada Reversa,26300
+30,Pequena Ordenada Reversa,33700
+40,Pequena Ordenada Reversa,50800
+50,Pequena Ordenada Reversa,67400
+60,Pequena Ordenada Reversa,73500
+70,Pequena Ordenada Reversa,90300
+80,Pequena Ordenada Reversa,108600
+90,Pequena Ordenada Reversa,133000
+100,Pequena Ordenada Reversa,143700
